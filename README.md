@@ -1,20 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <div id="badges">
+  <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/></p>
+  <div id="badges" align="center">
       <a href="https://leetcode.com/DmitryGit/">
         <img src="https://img.shields.io/badge/Leetcode-ffad33?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode badge"/>
       </a>
      <a href="https://career.habr.com/dmitrygit">
-        <img src="https://img.shields.io/badge/Habr-6274bc?logo=habr&logoColor=white&style=for-the-badge" alt="Habe badge"/>
+        <img src="https://img.shields.io/badge/Habr-6274bc?logo=habr&logoColor=white&style=for-the-badge" alt="Habr badge"/>
       </a>
   </div>
-  <div>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=DmitryGityuk&style=flat-square&color=blue" alt=""/>
   </div>
-  <div>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </div>
+  <h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 </div>
   
   ***
@@ -34,20 +31,3 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGityuk&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGityuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**DmitryGityuk/DmitryGityuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
