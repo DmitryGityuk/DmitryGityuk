@@ -1,7 +1,7 @@
-name: Snake
+name: Snake Game
 
 on:
-  # run automatically every 12 hours
+  # run automatically every 5 hours
   schedule:
     - cron: "0 */5 * * *" 
   
@@ -20,15 +20,14 @@ jobs:
           github_user_name: DmitryGityuk
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+     
     - run: git status
     
     - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
      
         uses: crazy-max/ghaction-github-pages@v2.6.0
