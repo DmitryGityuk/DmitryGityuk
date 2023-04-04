@@ -29,7 +29,7 @@
   ***
   :fire: My Stats :  
   <div id="stats" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGityuk&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-  </div>
+ <p [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGityuk&theme=dracula&hide_border=true)](https://git.io/streak-stats)/>
+  </div> 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGityuk&layout=compact&theme=dracula)
 
