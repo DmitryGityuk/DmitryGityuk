@@ -33,8 +33,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGityuk&layout=compact&theme=dracula&hide_border=true)
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/DmitryGityuk/DmitryGityuk/output/github-contribution-grid-snake.svg)
   
-  </div>
+  </div> -->
