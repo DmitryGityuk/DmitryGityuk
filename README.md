@@ -16,11 +16,20 @@
 </div>
   
   ***
-<p align="center">:hammer_and_wrench: Languages and Tools :</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,github,git,idea,vscode,java,spring,hibernate,mysql,postgres,aws,bootstrap,docker,postman" />
-  </a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ IDEA"/></a>
+  <a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/></a>
+  <a href="https://dev.java" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
+  <a href="https://spring.io" title="Spring"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring"/></a>
+  <a href="https://hibernate.org" title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate" width="48" alt="Hibernate"/></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/></a>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/></a>
+  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap"/></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/></a>
+  <a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
 </p>
 
   ***
